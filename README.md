@@ -1,6 +1,6 @@
 # <p align="center" style="color:#cb3349" > [CK](https://telegram.me/CKxSTORE) 
 
-<p align="center" style="color: #000040;" > سورس سنكو لتنصيب تابع اوامر تنصيب السورس
+<p align="center" style="color: #000040;" > سورس فايت رو لتنصيب تابع اوامر تنصيب السورس
 
 *** 
 
