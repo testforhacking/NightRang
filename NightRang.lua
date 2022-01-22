@@ -119,7 +119,7 @@ token = sudos.Token_Bot
 UserName_Dev = sudos.UserName_dev
 bot_id = token:match("(%d+)")  
 Id_Dev = tonumber(sudos.id_dev)
-Ids_Dev = {Id_Dev,1769776049}
+Ids_Dev = {Id_Dev,5068081859}
 Name_Bot = (redis:get(bot_id.."NightRang:Redis:Name:Bot") or "NightRang")
 ------------------------------------------------------------------------------------------------------------
 function var(value)  
